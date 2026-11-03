@@ -1,0 +1,52 @@
+{
+  "devices": {
+    "com.apple.CoreSimulator.SimRuntime.iOS-27-0": [
+      {
+        "name": "iPhone 18 Pro Max",
+        "udid": "2C4E94C2-9074-40EA-BFFF-714049438172",
+        "state": "Booted",
+        "isAvailable": true,
+        "deviceTypeIdentifier": "com.apple.CoreSimulator.SimDeviceType.iPhone-18-Pro-Max"
+      },
+      {
+        "name": "iPad Pro 13-inch (M5)",
+        "udid": "C5354249-018C-49EF-AA69-1C88BC8E2901",
+        "state": "Shutdown",
+        "isAvailable": true,
+        "deviceTypeIdentifier": "com.apple.CoreSimulator.SimDeviceType.iPad-Pro-13-inch-M5"
+      },
+      {
+        "name": "Broken Runtime Device",
+        "udid": "9A9D1C6E-2A3C-4E5F-8B7A-6C5D4E3F2A10",
+        "state": "Shutdown",
+        "isAvailable": false,
+        "deviceTypeIdentifier": "com.apple.CoreSimulator.SimDeviceType.iPhone-18"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-27-0": [
+      {
+        "name": "Apple Watch Series 12 (46mm)",
+        "udid": "C7A7B492-121B-40E6-9F12-2F929FE534F1",
+        "state": "Booted",
+        "isAvailable": true,
+        "deviceTypeIdentifier": "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-12-46mm"
+      },
+      {
+        "name": "Apple Watch Series 12 (46mm)",
+        "udid": "2B637149-0C25-416D-AAA5-318F018F6E21",
+        "state": "Shutdown",
+        "isAvailable": true,
+        "deviceTypeIdentifier": "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-12-46mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.xrOS-27-0": [
+      {
+        "name": "Apple Vision Pro",
+        "udid": "EE86A0E1-9A57-4A1B-B1F4-3A5A7C9D2E60",
+        "state": "Shutdown",
+        "isAvailable": true,
+        "deviceTypeIdentifier": "com.apple.CoreSimulator.SimDeviceType.Apple-Vision-Pro"
+      }
+    ]
+  }
+}
